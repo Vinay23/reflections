@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git directory is created in the repository. .git directory is the place where git maintains all the logs of the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area contains all the files we want to add in a single commit. Working directory contains all the files which may or may not be commited. Repository 
+contains all the commited files. It offers a way to add/update multiple files in a single commit.
